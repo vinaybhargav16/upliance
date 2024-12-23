@@ -25,7 +25,7 @@ Intership Assignment
     - `3_visualizations.ipynb` - To create visualizations of the key insights.
 
 4. **View the Report**:
-    After running the analysis, the `findings_report.pdf` file in the `reports/` folder provides a comprehensive summary of the analysis, insights, and business recommendations.
+    The analysis file `Jamap_Vinay_Bhargav.docx` file provides a comprehensive summary of the analysis, insights, and business recommendations.
 
 ## Project Goals
 
